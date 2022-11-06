@@ -66,6 +66,10 @@ export default {
         padding: 0;
         margin: 0;
     }
+
+    select{
+        display: none;
+    }
     
     /* Select body */
     .select_body .select{
